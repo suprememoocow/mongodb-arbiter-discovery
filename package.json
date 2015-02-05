@@ -1,6 +1,6 @@
 {
   "name": "mongodb-arbiter-discovery",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Mongodb replicaset host discovery using an arbiter member of a replicaset",
   "main": "index.js",
   "directories": {
