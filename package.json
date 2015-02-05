@@ -1,0 +1,32 @@
+{
+  "name": "mongodb-arbiter-discovery",
+  "version": "0.1.0",
+  "description": "Mongodb replicaset host discovery using an arbiter member of a replicaset",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "mongodb": "1.x.x"
+  },
+  "devDependencies": {
+    "mocha": "^2.x.x"
+  },
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suprememoocow/mongodb-arbiter-discovery.git"
+  },
+  "keywords": [
+    "mongodb",
+    "autodiscovery"
+  ],
+  "author": "Andrew Newdigate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suprememoocow/mongodb-arbiter-discovery/issues"
+  },
+  "homepage": "https://github.com/suprememoocow/mongodb-arbiter-discovery"
+}
