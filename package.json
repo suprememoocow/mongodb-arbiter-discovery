@@ -7,7 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "mongodb": "1.x.x"
+    "mongodb": "> 1.4.x < 3.x.x"
   },
   "devDependencies": {
     "mocha": "^2.x.x"
